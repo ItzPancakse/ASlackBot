@@ -12,3 +12,16 @@ npm install @slack/bolt dotenv axios
 ```bash
 node index.js
 ```
+
+## Included commands
+- 8ball `/slackinpancake-8ball`
+- ping `/slackinpancake-ping`
+- joke `/slackinpancake-joke`
+- catfact `/slackinpancake-catfact`
+- breaking news `/slackinpancake-breakingnews`
+- diagnosis `/slackinpancake-diagnosis`
+
+## Techstack
+- JavaScript
+
+
